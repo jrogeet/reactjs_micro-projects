@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "./Project3.css";
 
 const messages = [
   "Learn React ⚛️",
