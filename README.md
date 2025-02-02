@@ -1,7 +1,6 @@
 I compiled the mini projects i've done while taking Jonas Schmedtmann's ReactJS Course
 into a single page.
 
----
 
 # React + Vite
 
