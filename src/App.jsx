@@ -1,6 +1,7 @@
 import Project1 from "./Components/Project1/Project1";
 import Project2 from "./Components/Project2/Project2";
 import Project3 from "./Components/Project3/Project3";
+import Project4 from "./Components/Project4/Project4";
 
 export default function App() {
   return (
@@ -17,6 +18,10 @@ export default function App() {
         <summary>Project 3: Steps</summary>
         <Project3 />
         <Project3 />
+      </details>
+      <details>
+        <summary>Project 4: Counter</summary>
+        <Project4 />
       </details>
     </>
   );
