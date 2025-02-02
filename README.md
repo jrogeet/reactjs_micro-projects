@@ -1,3 +1,8 @@
+I compiled the mini projects i've done while taking Jonas Schmedtmann's ReactJS Course
+into a single page.
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
