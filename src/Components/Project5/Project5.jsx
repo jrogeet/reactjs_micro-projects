@@ -42,5 +42,6 @@ function Counter() {
       <button onClick={() => handleReset()}>Reset</button> 
       : ""}
     </div>
+    
   );
 }
