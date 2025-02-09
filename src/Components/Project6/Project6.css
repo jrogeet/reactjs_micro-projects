@@ -1,4 +1,4 @@
-* {
+/* * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -8,7 +8,7 @@
     font-family: sans-serif;
     color: #343a40;
     line-height: 1;
-  }
+  } */
   
   .accordion {
     width: 700px;
@@ -67,7 +67,7 @@
   }
   
   .open .number,
-  .open .text {
+  .open .title {
     color: #087f5b;
   }
   
