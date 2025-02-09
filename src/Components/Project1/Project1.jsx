@@ -59,7 +59,7 @@ function Avatar() {
 function Intro() {
   return (
     <div>
-      <h1>John Rogee Turqueza</h1>
+      <h1 className="project1-name">John Rogee Turqueza</h1>
       <p className="data">
         Aspiring software engineer, has an eye for details, design, aesthetics
         and is an advocate of Grit.

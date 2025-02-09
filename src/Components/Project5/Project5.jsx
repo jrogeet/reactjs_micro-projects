@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export default function App() {
+export default function Project5() {
   return (
     <div>
         <Counter/>

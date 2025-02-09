@@ -18,7 +18,7 @@ const faqs = [
   }
 ];
 
-export default function App() {
+export default function Project6() {
   return (
     <div>
       <Accordion />
