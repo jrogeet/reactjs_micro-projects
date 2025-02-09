@@ -4,10 +4,11 @@ import Project3 from "./Components/Project3/Project3";
 import Project4 from "./Components/Project4/Project4";
 import Project5 from "./Components/Project5/Project5";
 import Project6 from "./Components/Project6/Project6";
+import "./App.css";
 
 export default function App() {
   return (
-    <>
+    <div className="app">
       <details>
         <summary>Project 1: Profile</summary>
         <Project1 />
@@ -18,7 +19,6 @@ export default function App() {
       </details>
       <details>
         <summary>Project 3: Steps</summary>
-        <Project3 />
         <Project3 />
       </details>
       <details>
@@ -33,6 +33,6 @@ export default function App() {
         <summary>Project 6: Accordion v1</summary>
         <Project6 />
       </details>
-    </>
+    </div>
   );
 }
