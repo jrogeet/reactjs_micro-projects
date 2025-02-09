@@ -3,6 +3,7 @@ import Project2 from "./Components/Project2/Project2";
 import Project3 from "./Components/Project3/Project3";
 import Project4 from "./Components/Project4/Project4";
 import Project5 from "./Components/Project5/Project5";
+import Project6 from "./Components/Project6/Project6";
 
 export default function App() {
   return (
@@ -27,6 +28,10 @@ export default function App() {
       <details>
         <summary>Project 5: Counter v2</summary>
         <Project5 />
+      </details>
+      <details>
+        <summary>Project 6: Accordion v1</summary>
+        <Project6 />
       </details>
     </>
   );
